@@ -1,5 +1,5 @@
 # Salesforce-lead-product-interest-automation
-Salesforce Admin project – Lead follow-up automation using Workflow Rules
+Salesforce Admin project – Lead follow-up Task automation using Workflow Rules
 # Salesforce Lead Product Interest Automation
 
 ## Project Overview
